@@ -6,10 +6,10 @@
 <h3 align="center">A passionate MERN Stack Developer & Tech Enthusiast</h3>
 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shubha274&color=blue&style=flat&label=Visitors" alt="Visitor Badge" />
 </p>
----
+
 
 
 ### 👩‍💻 About Me
