@@ -6,7 +6,7 @@
 <h3 align="center">A passionate MERN Stack Developer & Tech Enthusiast</h3>
 
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shubha274&color=blue&style=flat&label=Visitors" alt="Visitor Badge" />
 </p>
 
@@ -52,9 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubha274&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubha274&color=blue&style=flat&label=Visitors" alt="Visitor Badge" />
-</p>
+
 
 ---
 
