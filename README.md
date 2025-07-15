@@ -1,21 +1,4 @@
-<style>
-  .tech-icon {
-    width: 60px;
-    height: 60px;
-    border-radius: 50%;
-    background-color: #f0f0f0;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    margin: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  }
 
-  .tech-icon img {
-    width: 30px;
-    height: 30px;
-  }
-</style>
 
 
 <h1 align="center">Hi 👋, I'm Shubha</h1>
@@ -32,14 +15,7 @@
 ---
 
 ### 💻 Tech Stack
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></div>
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></div>
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></div>
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /></div>
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></div>
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></div>
-<div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></div>
----
+<p>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=fff" />   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> </p>    hey i want that to be in form of circle
 
 ### 📊 GitHub Stats
 <p align="center">
