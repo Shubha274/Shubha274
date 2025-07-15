@@ -41,7 +41,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shubha274&show_icons=true&theme=tokyonight&count_private=true" alt="Shubha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubha274&show_icons=true&theme=tokyonight&count_private=true" alt="Shubha GitHub stats" />
 </p>
 
 <p align="center">
