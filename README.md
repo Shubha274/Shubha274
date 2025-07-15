@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Shubha</h1>
 <h3 align="center">A passionate MERN Stack Developer & Tech Enthusiast</h3>
-
+---
 
 
 ### 👩‍💻 About Me
