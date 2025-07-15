@@ -1,5 +1,47 @@
 
+<div align="center">
+  <img height="200" src="https://quantumspacehub.com/wp-content/uploads/2024/07/Code.jpg"  />
+</div>
 
+###
+
+<h3 align="center">Hi 👋, I'm Shubha<br><br>A passionate MERN Stack Developer & Tech Enthusiast</h3>
+
+###
+
+<p align="left">👩‍💻 About Me<br><br><br>-🔭 I’m currently working on  real-world MERN stack projects to solidify my skills  <br>- 🌱 I’m actively learning  JavaScript, React.js, Node.js, and MongoDB<br>- 🚀 Passionate about building projects that  solve real problems <br>- 🧠 I believe in learning by doing — breaking things, fixing them, and growing!</p>
+
+###
+
+<p align="left">Tech Stack</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+
+###
 
 <h1 align="center">Hi 👋, I'm Shubha</h1>
 <h3 align="center">A passionate MERN Stack Developer & Tech Enthusiast</h3>
