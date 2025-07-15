@@ -1,4 +1,21 @@
+<style>
+  .tech-icon {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #f0f0f0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
 
+  .tech-icon img {
+    width: 30px;
+    height: 30px;
+  }
+</style>
 
 
 <h1 align="center">Hi 👋, I'm Shubha</h1>
@@ -22,7 +39,6 @@
 <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></div>
 <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></div>
 <div class="tech-icon"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></div>
-
 ---
 
 ### 📊 GitHub Stats
