@@ -1,20 +1,4 @@
-<style>
-  .badge-circle {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    overflow: hidden;
-    display: inline-block;
-    margin: 8px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.2);
-  }
 
-  .badge-circle img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-</style>
 
 
 <h1 align="center">Hi 👋, I'm Shubha</h1>
