@@ -45,8 +45,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubha274&theme=tokyonight&hide_border=false" alt="Shubha's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Shubha274&theme=tokyonight&hide_border=false" alt="Shubha's GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubha274&layout=compact&theme=tokyonight" alt="Top Languages" />
