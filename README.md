@@ -45,7 +45,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Shubha274&theme=tokyonight&hide_border=false" alt="Shubha's GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Shubha274&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
 </p>
 
 
