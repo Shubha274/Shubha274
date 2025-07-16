@@ -44,11 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shubha274&show_icons=true&theme=tokyonight&count_private=true" alt="Shubha GitHub stats" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Shubha274&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
-</p>
 
 
 <p align="center">
